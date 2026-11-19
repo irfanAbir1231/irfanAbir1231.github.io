@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.deedwise",
+      "sha256_cert_fingerprints": [
+        "43:2C:4B:5E:69:3C:FF:09:74:97:E4:C4:74:29:D9:83:B4:83:A7:49:4C:A0:F5:A5:6C:F6:4D:A0:AA:5F:02:D0"
+      ]
+    }
+  }
+]
