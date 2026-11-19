@@ -1,3 +1,0 @@
-# Include Android App Links association in GitHub Pages output.
-include:
-  - .well-known
